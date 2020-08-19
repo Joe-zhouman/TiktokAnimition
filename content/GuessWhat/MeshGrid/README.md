@@ -24,6 +24,8 @@ zq = F(xq, yq);
 ```matlab
 mesh(xq, yq, zq);
 ```
+![](https://github.com/Joe-zhouman/TiktokAnimition/blob/master/content/GuessWhat/MeshGrid/mesh.jpg)
 ```matlab
 surf(xq, yq, zq);
 ```
+![](https://github.com/Joe-zhouman/TiktokAnimition/blob/master/content/GuessWhat/MeshGrid/surf.jpg)
